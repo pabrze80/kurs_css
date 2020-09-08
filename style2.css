@@ -10,18 +10,33 @@ div {
     background-color: red;
 }
 
+#h2 p,
+strong {
+    font-size: 38px;
+    color: blue;
+}
+
+strong {
+    color: green;
+    font-size: 25px;
+}
+
+.test {
+    color: purple;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
 p {
     font-size: 18px;
-    color: red;
+    color: yellow;
 }
 
 
 /*
-p {
-    font-size: 18px;
-    color: green;
-}
-
 a {
     color: green;
     text-decoration: none;
@@ -40,7 +55,7 @@ div {
 }
 
 
-/* */
+/* 
 
 #header h1 {
     font-size: 25px;
@@ -61,4 +76,4 @@ div {
 .h2 {
     display: block;
     color: green;
-}
+}*/
