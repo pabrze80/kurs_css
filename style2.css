@@ -1,0 +1,47 @@
+/* Targeting elements*/
+
+p {
+    font-size: 18px;
+    color: red;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+div {
+    width: 100%;
+    background-color: yellow;
+    ;
+}
+
+#header {
+    position: 100px;
+    top: 100;
+    left: 0;
+}
+
+
+/* */
+
+#header h1 {
+    font-size: 25px;
+}
+
+* #header p {
+    font-size: 18px;
+    color: blue;
+    text-transform: uppercase;
+}
+
+#header2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: orange;
+}
+
+.h2 {
+    display: block;
+    color: green;
+}
