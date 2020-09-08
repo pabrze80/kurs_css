@@ -1,8 +1,25 @@
 /* Targeting elements*/
 
+body {
+    background-color: black;
+}
+
+div {
+    display: block;
+    width: auto;
+    background-color: red;
+}
+
 p {
     font-size: 18px;
     color: red;
+}
+
+
+/*
+p {
+    font-size: 18px;
+    color: green;
 }
 
 a {
@@ -29,7 +46,7 @@ div {
     font-size: 25px;
 }
 
-* #header p {
+#header {
     font-size: 18px;
     color: blue;
     text-transform: uppercase;
